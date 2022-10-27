@@ -52,7 +52,7 @@ const app = {
         setInterval(() => {
             this.clearAll()
             this.drawAll()
-        }, 50)
+        }, 100)
     },
     clearAll() {
         this.ctx.clearRect(0, 0, this.canvasSize.w, this.canvasSize.h)
