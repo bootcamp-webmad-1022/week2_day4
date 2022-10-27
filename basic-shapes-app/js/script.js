@@ -1,5 +1,5 @@
 app.init()
 // app.drawSquare()
-// app.drawLines()
+app.drawLines()
 // app.drawArc()
-app.drawText('DOM IS LOVE :3')
+//app.drawText('DOM IS LOVE :3')
